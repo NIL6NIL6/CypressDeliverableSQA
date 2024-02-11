@@ -4,7 +4,8 @@
   "description": "Cypress testing, UPC studies",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress run"
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
   },
   "author": "Nil Vilas",
   "license": "ISC",

@@ -1,0 +1,11 @@
+GitHub Public Repo: https://github.com/NIL6NIL6/CypressDeliverableSQA.git
+YouTube Video: https://youtu.be/CZC0taKCJ-E
+
+Asumiendo que la instalación de Cypress ya está realizada, los pasos a seguir para ejecutar los tests son los siguientes:
+    · Abrir un terminal en el directorio raíz del repositorio anteriormente mencionado.
+    · Ejecutar el siguiente comando: npm run cypress:run
+    · Esperar a que el comando termine
+
+Al terminar el proceso, debería aparecer un Screenshot en la carpeta cypress/screenshots en el momento del fallo del assert
+Si se quiere sacar el vídeo para ver qué está sucediendo, se puede abrir el archivo cypress.config.js ubicado en la carpeta raíz del repositorio y cambiar el parámetro video a true.
+Otramente, se puede ejecutar el comando "npm run cypress:open" para abrir Cypress con GUI y seguir el proceso de forma visual. Habría que seleccionar la opción izquierda de E2E y luego un navegador de su elección. Con el navegador ya abierto, seleccionar spec.cy.js y se ejecutarán los tests. Esta opción no permite que se graben vídeos ni que se capturen screenshots en el momento del fallo. 
