@@ -1,0 +1,14 @@
+{
+  "name": "cypress-upc",
+  "version": "0.1.0",
+  "description": "Cypress testing, UPC studies",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress run"
+  },
+  "author": "Nil Vilas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  }
+}
