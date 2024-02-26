@@ -1,5 +1,5 @@
 GitHub Public Repo: https://github.com/NIL6NIL6/CypressDeliverableSQA.git
-YouTube Video: https://youtu.be/CZC0taKCJ-E
+YouTube Video: https://youtu.be/HyDuRgqZ5Lo
 
 Asumiendo que la instalación de Cypress ya está realizada, los pasos a seguir para ejecutar los tests son los siguientes:
     · Abrir un terminal en el directorio raíz del repositorio anteriormente mencionado.

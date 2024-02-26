@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "name": "Royal London 41003-03",
+      "quantity": "2",
+      "message": "We've received your order"
+    },
+    {
+      "name": "Citizen Eco-Drive Silver Tone Men",
+      "quantity": "3",
+      "message": "We've received your order"
+    },
+    {
+      "name": "Royal London 41003-03",
+      "quantity": "2",
+      "message": "Your order has processed"
+    }
+  ],
+  "user": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "street_address": "C/Jordi Girona, 1",
+    "post_code": "08034",
+    "city": "Barcelona",
+    "email_address": "john.doe@gmail.com"
+  }
+}
